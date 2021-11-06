@@ -5,7 +5,7 @@ public class MainClass {
         miner.mine("c://7mada.txt");
 
         miner = new DocDataMiner();
-        //miner.mine("c://7mada.txt");
+        miner.mine("c://somerespectablename.txt");
     }
 
 }
